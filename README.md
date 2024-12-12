@@ -36,9 +36,9 @@
 **kaizoku-oh/kaizoku-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on robotics, mainly using ROS2 and micro-ros on top of microcontrollers
-- 🌱 I’m currently learning C++ for building high quality generic firmware
+- 🔭 I’m currently working with C++ for building high quality generic firmware
+- 🌱 I’m currently playing with NFC and Zephyr for building contacless solutions
 - 👯 I’m looking to collaborate on firmware projects
 - 💬 Ask me anything about IoT solutions and connecting devices to the cloud
 - 📫 How to reach me: you can reach me from the social media links above
-- ⚡ Languages: C, Python, Java
+- ⚡ Languages: C, Python, C++, Java
